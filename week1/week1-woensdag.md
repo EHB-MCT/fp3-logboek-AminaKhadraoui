@@ -8,6 +8,7 @@
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
+> **Activiteiten:**  
 - Onderzoek afgewerkt
 - prototype afgewerkt 
 - cardsorting v/d app (met de hele groep)
@@ -17,7 +18,6 @@
 ---
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-> **Activiteiten:**  
 Vandaag heb ik niks nieuws gedaan of bij geleerd
 ---
 
