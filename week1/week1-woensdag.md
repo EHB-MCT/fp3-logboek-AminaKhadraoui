@@ -17,6 +17,7 @@
 ---
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
+> **Activiteiten:**  
 Vandaag heb ik niks nieuws gedaan of bij geleerd
 ---
 
